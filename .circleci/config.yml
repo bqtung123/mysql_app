@@ -6,7 +6,7 @@ version: 2.1
 # See: https://circleci.com/docs/2.0/orb-intro/
 executors:
   default:
-    working_directory: ~/hix_postgresql
+    working_directory: ~/hix_mysql
     docker:
       - image: circleci/ruby:2.7.2
         environment:
