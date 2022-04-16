@@ -79,4 +79,3 @@ end
 
 gem 'dotenv-rails'
 gem 'rubocop'
-gem 'net-http'
